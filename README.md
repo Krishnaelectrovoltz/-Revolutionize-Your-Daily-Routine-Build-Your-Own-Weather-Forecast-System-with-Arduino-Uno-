@@ -2,6 +2,8 @@
 "Create your own Arduino Uno Weather Forecast System! Customize with any sensors you want for tailored predictions. From temperature to humidity and beyond, the possibilities are endless. Be the master of meteorology in just a few simple steps!"
 Title: Building a Versatile Weather Forecast System with Arduino Uno: A Comprehensive Guide
 
+![demo_info](https://github.com/krishna1000101/-Revolutionize-Your-Daily-Routine-Build-Your-Own-Weather-Forecast-System-with-Arduino-Uno-/assets/121123413/487fc4dc-e5bb-439a-b7e2-6781906a6159)
+
 **Introduction:**
 In an era where weather information is readily available, why not take it a step further and create your own weather forecast system? With Arduino Uno and a variety of sensors, you can customize your system to provide accurate and personalized weather predictions. This comprehensive guide will walk you through the process of building a versatile weather forecast system that suits your needs.
 
@@ -56,4 +58,3 @@ In an era where weather information is readily available, why not take it a step
 
 Building your own weather forecast system with Arduino Uno is not just a fun project; it's a learning experience that empowers you to take control of your environment. By following this comprehensive guide, you'll gain valuable skills in electronics, programming, and data analysis while creating a practical and personalized solution for weather prediction. So, roll up your sleeves, gather your sensors, and embark on the journey to become a weather forecasting enthusiast!
 
-![demo_info](https://github.com/krishna1000101/-Revolutionize-Your-Daily-Routine-Build-Your-Own-Weather-Forecast-System-with-Arduino-Uno-/assets/121123413/487fc4dc-e5bb-439a-b7e2-6781906a6159)
