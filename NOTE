@@ -1,7 +1,7 @@
 Note:
-One of the key advantages of building your weather forecast system with Arduino Uno is its flexibility to accommodate a wide range of sensors. 
-**You can add as many sensors as you desire to gather comprehensive data about the environment.**
-The source code provided in this guide is designed to be easily configurable, allowing you to integrate new sensors seamlessly. 
-Simply follow the guidelines provided in the documentation for each sensor type and adjust the code accordingly to read and process the additional data.
-Experiment with different sensor combinations to tailor your weather forecast system to your specific needs and preferences. 
-The possibilities are virtually endless, empowering you to create a truly customizable and robust solution for weather prediction.
+• One of the key advantages of building your weather forecast system with Arduino Uno is its flexibility to accommodate a wide range of sensors. 
+• You can add as many sensors as you desire to gather comprehensive data about the environment.
+• The source code provided in this guide is designed to be easily configurable, allowing you to integrate new sensors seamlessly. 
+• Simply follow the guidelines provided in the documentation for each sensor type and adjust the code accordingly to read and process the additional data.
+•Experiment with different sensor combinations to tailor your weather forecast system to your specific needs and preferences. 
+• The possibilities are virtually endless, empowering you to create a truly customizable and robust solution for weather prediction.
