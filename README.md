@@ -56,5 +56,4 @@ In an era where weather information is readily available, why not take it a step
     - Emphasis on the versatility and customization options available with DIY projects.
     - Inspiring readers to explore new possibilities and push the boundaries of innovation in weather forecasting.
 
-Building your own weather forecast system with Arduino Uno is not just a fun project; it's a learning experience that empowers you to take control of your environment. By following this comprehensive guide, you'll gain valuable skills in electronics, programming, and data analysis while creating a practical and personalized solution for weather prediction. So, roll up your sleeves, gather your sensors, and embark on the journey to become a weather forecasting enthusiast!
-
+**Building your own weather forecast system with Arduino Uno is not just a fun project; it's a learning experience that empowers you to take control of your environment. By following this comprehensive guide, you'll gain valuable skills in electronics, programming, and data analysis while creating a practical and personalized solution for weather prediction. So, roll up your sleeves, gather your sensors, and embark on the journey to become a weather forecasting enthusiast!**
