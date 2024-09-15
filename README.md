@@ -7,7 +7,7 @@ Title: Building a Versatile Weather Forecast System with Arduino Uno: A Comprehe
 **Introduction:**
 In an era where weather information is readily available, why not take it a step further and create your own weather forecast system? With Arduino Uno and a variety of sensors, you can customize your system to provide accurate and personalized weather predictions. This comprehensive guide will walk you through the process of building a versatile weather forecast system that suits your needs.
 
-**1. Understanding the Basics of Arduino Uno:**
+**1. Understanding the Basics of Arduino Uno:** 
    - Brief overview of Arduino Uno and its capabilities.
    - Introduction to the Arduino IDE and programming language (C/C++).
  
