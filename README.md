@@ -10,7 +10,7 @@ In an era where weather information is readily available, why not take it a step
 **1. Understanding the Basics of Arduino Uno:**
    - Brief overview of Arduino Uno and its capabilities.
    - Introduction to the Arduino IDE and programming language (C/C++).
-
+ 
 **2. Selecting Sensors for Your Weather Forecast System:**
    - Discuss various types of sensors commonly used in weather forecasting (e.g., temperature, humidity, pressure, rain gauge, wind speed/direction).
    - Consider factors such as accuracy, compatibility with Arduino Uno, and cost when choosing sensors.
