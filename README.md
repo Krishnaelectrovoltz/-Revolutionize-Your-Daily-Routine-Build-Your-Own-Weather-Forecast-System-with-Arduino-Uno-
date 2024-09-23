@@ -27,7 +27,7 @@ In an era where weather information is readily available, why not take it a step
    - Tips for minimizing interference and optimizing sensor performance.
 
 **5. Programming Your Weather Forecast System:**
-   - Writing code to read data from sensors using Arduino IDE.
+   - Writing code to read data from sensors using Arduino IDE. 
    - Implementing algorithms for data processing and analysis.
    - Integrating real-time clock (RTC) module for timestamping data.
 
