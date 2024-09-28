@@ -19,7 +19,7 @@ In an era where weather information is readily available, why not take it a step
 **3. Setting Up Your Arduino Uno:**
    - Step-by-step instructions for setting up Arduino Uno board.
    - Installing necessary drivers and software (Arduino IDE).
-   - Testing the board with a basic "Hello, World!" program to ensure functionality.
+   - Testing the board with a basic "Hello, World!" program to ensure functionality. 
 
 **4. Connecting Sensors to Arduino Uno:**
    - Wiring diagrams and pin configurations for each sensor type.
